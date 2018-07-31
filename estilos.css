@@ -1,0 +1,127 @@
+@charset "utf-8";
+.acceso {
+	color: #999;
+	position: relative;
+	width: 250px;
+	height: 360px;
+	left: 600px;
+	top: 10px;
+}
+.Menu_sup {
+	position: relative;
+	height: auto;
+	width: auto;
+	right: 0px;
+	left: 250px;
+	bottom: 15px;
+}
+.Menu_sup_admin {
+	position: relative;
+	height: auto;
+	width: auto;
+	right: 0px;
+	left: 120px;
+	bottom: 15px;
+}
+.Menu_sup_doc {
+	position: relative;
+	height: auto;
+	width: auto;
+	right: 0px;
+	left: 180px;
+	bottom: 15px;
+}
+.Menu_sup_img {
+	position: relative;
+	height: auto;
+	width: auto;
+	left: 10px;
+	bottom: 5px;
+}
+
+.titulo_pestanas {
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFF;
+	text-transform: capitalize;
+}
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 7pt;
+	font-weight: normal;
+	color: #CCC;
+	text-decoration: none;
+	background-image: url(imagenes/fnd-page.jpg);
+	margin: 0px;
+	padding: 0px;
+}
+.texto_normal {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #CCC;
+	text-align: justify;
+	word-spacing: normal;
+}
+
+.head_menu {
+	color: #FFF;
+	background-image: url(imagenes/fnd_head_menu.gif);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+.fnd_tabla_prin {
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-image: url(imagenes/foto_fnd.png);
+}
+.Titulo {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 38px;
+	font-weight: lighter;
+	color: #CCC;
+	padding-left: 30px;
+}
+.Texto_14 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #CCC;
+	
+}
+.Texto_19 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 19px;
+	font-weight: bold;
+	color: #CCC;
+	
+}
+.error {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #F00;
+	text-decoration: none;
+	background-color: #FFC;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.Tabla_datos {
+	font-size: 11px;
+	font-weight: bold;
+}
+a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #CCC;
+	text-decoration: none;
+	line-height: 18px;
+}
+a.links_sub:link, a.links_sub:visited{
+	font-weight: bold;
+	text-decoration: underline;
+}
+a.links_sub:Hover, a.links_sub:active{
+	font-weight: bold;
+}
